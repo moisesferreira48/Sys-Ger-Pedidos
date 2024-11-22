@@ -18,7 +18,13 @@ Após isso, rode o comando para instalar as dependências:
 npm install
 ```
 
-Rode o comando para iniciar o projeto:
+Com o backend rodando, rode o comando para gerar o build do projeto:
+
+```bash
+npm run build
+```
+
+Com o build gerado, rode o comando para iniciar o projeto:
 
 ```bash
 npm start
